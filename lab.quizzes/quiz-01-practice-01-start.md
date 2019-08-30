@@ -1,4 +1,4 @@
-# LAB QUIZ 01 - PRACTIVE 01 - GETTING STARTED
+# LAB QUIZ 01 - PRACTICE 01 - GETTING STARTED
 
 1. Start Eclipse; it takes a while to roll.
 1. Open a web browser.
