@@ -41,8 +41,8 @@ If you were unable to make it to this lab, make sure you complete the tasks you 
   - you'll receive a welcome email from GitHub after your account has been created; it has some useful info in it for when we start using GitHub "for real" later in the course, so you may want to set this email aside so you can read it down the road
 - [ ] let JP know your GitHub username
   - send an email to jpratt@mtroyal.ca and let me know your **GitHub username** and your **real-life name**
-- [ ] pretend we're doing a quiz (instructions [here](https://github.com/mru-csis-1501-201904-001/instructions.finalized/blob/master/lab.quizzes/quiz-00-practice-start.md)): download a project from GitHub, modify it, and submit it back to GitHub <https://classroom.github.com/a/AltM9GXU>
-  - [video](#) [30:16]
+- [ ] pretend we're doing a quiz (instructions [here](https://github.com/mru-csis-1501-201904-001/instructions.finalized/blob/master/lab.quizzes/quiz-00-practice-start.md)): download a project from GitHub, modify it, and submit it back to GitHub.
+  - [video](https://drive.google.com/open?id=1PJbZtRAYg5U7Q_kVic25-G3x87u7WsWS) [30:16]
 - [ ] watch for changes to the `instructions.finalized` GitHub repository via this link <https://github.com/mru-csis-1501-201904-001/instructions.finalized>
   - [video](https://drive.google.com/open?id=1mG9_7YPiC-xg3brQBVoCztHnqSoNLBOp) [2:12]
 
